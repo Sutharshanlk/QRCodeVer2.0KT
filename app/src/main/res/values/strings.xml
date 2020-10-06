@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Boarding Scan vKT</string>
+
+    <!--Flight Info Activity headers-->
+    <string name="flt_Date">Flight Date</string>
+    <string name="flt_number">Flight Number</string>
+    <string name="sector_from">Takeoff</string>
+    <string name="sector_to">Landing</string>
+    <string name="pax_count">Passenger count</string>
+    <string name="flt_infp_btn_text">Next</string>
+    <string name="seat_no"> Seat Number</string>
+    <string name="pax_name">Passenger Name</string>
+    <string name="refNo">Passenger Name Reservation</string>
+
+    <string name="scan_card_link">Scan Boarding Pass With Camera</string>
+</resources>
